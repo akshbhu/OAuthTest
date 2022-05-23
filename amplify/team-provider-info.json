@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-authtestoauth-dev-150839-authRole",
+      "UnauthRoleArn": "arn:aws:iam::136981144547:role/amplify-authtestoauth-dev-150839-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::136981144547:role/amplify-authtestoauth-dev-150839-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-authtestoauth-dev-150839-deployment",
+      "UnauthRoleName": "amplify-authtestoauth-dev-150839-unauthRole",
+      "StackName": "amplify-authtestoauth-dev-150839",
+      "StackId": "arn:aws:cloudformation:us-west-2:136981144547:stack/amplify-authtestoauth-dev-150839/e73d36b0-dae4-11ec-b6f4-0a83b701abf9",
+      "AmplifyAppId": "dnypqrn8wzfon"
+    },
+    "categories": {
+      "auth": {
+        "authtestoauthd5f8dab4d5f8dab4": {
+          "facebookAppId": "cjskjcs",
+          "oAuthSecretsPathAmplifyAppId": "dnypqrn8wzfon"
+        }
+      }
+    }
+  }
+}
